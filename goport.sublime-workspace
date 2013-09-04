@@ -1,0 +1,1620 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dev",
+				"device_info"
+			],
+			[
+				"S",
+				"String	string ƒ"
+			],
+			[
+				"p",
+				"Printf	n int, err error ƒ"
+			],
+			[
+				"Cu",
+				"CustomerJson	struct ʈ"
+			],
+			[
+				"cp",
+				"Copy	written int64, err error ƒ"
+			],
+			[
+				"H",
+				"HandleFunc	*mux.Route ƒ"
+			],
+			[
+				"M",
+				"Methods	*mux.Route ƒ"
+			],
+			[
+				"re",
+				"Replace	string ƒ"
+			],
+			[
+				"Spr",
+				"Sprintf	string ƒ"
+			],
+			[
+				"fie",
+				"FieldByIndex	reflect.StructField ƒ"
+			],
+			[
+				"typ",
+				"TypeOf	reflect.Type ƒ"
+			],
+			[
+				"Query",
+				"QueryRow	*sql.Row ƒ"
+			],
+			[
+				"func",
+				"func http handler	func(rw, req) ʂ"
+			],
+			[
+				"r",
+				"RawQuery	string ν"
+			],
+			[
+				"u",
+				"RequestURI	string ν"
+			],
+			[
+				"form",
+				"FormatInt	string ƒ"
+			],
+			[
+				"bad",
+				"StatusBadRequest	 Ɩ"
+			],
+			[
+				"int",
+				"ParseInt	i int64, err error ƒ"
+			],
+			[
+				"fun",
+				"func http handler	func(rw, req) ʂ"
+			],
+			[
+				"fp",
+				"Fprintf	n int, err error ƒ"
+			],
+			[
+				"data",
+				"databaseHost	*string ν"
+			],
+			[
+				"spr",
+				"Sprintf	string ƒ"
+			],
+			[
+				"no",
+				"StatusNotAcceptable	 Ɩ"
+			],
+			[
+				"in",
+				"Index	int ƒ"
+			],
+			[
+				"q",
+				"QueryFirst	mysql.Row, mysql.Result, error ƒ"
+			],
+			[
+				"Decoder",
+				"NewDecoder	*json.Decoder ƒ"
+			],
+			[
+				"for",
+				"FormValue	string ƒ"
+			],
+			[
+				"New",
+				"NewEncoder	*json.Encoder ƒ"
+			],
+			[
+				"default",
+				"DefaultServeMux	*http.ServeMux ν"
+			],
+			[
+				"Cut",
+				"Customerid"
+			],
+			[
+				"cusom",
+				"customerid_"
+			],
+			[
+				"cus",
+				"customer"
+			],
+			[
+				"permi",
+				"permissions"
+			],
+			[
+				"QU",
+				"QUERY_PRIVILIGES"
+			],
+			[
+				"QUERY_",
+				"QUERY_BY_EMAIL"
+			],
+			[
+				"ful",
+				"fullurl"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"full",
+				"fullurl"
+			],
+			[
+				"write",
+				"writeBody"
+			],
+			[
+				"wr",
+				"writeln"
+			],
+			[
+				"wri",
+				"writeln"
+			],
+			[
+				"ver",
+				"verifiedEmail"
+			],
+			[
+				"HTTPS",
+				"HTTPStatusException"
+			],
+			[
+				"HTTPser",
+				"HTTPServerRequest"
+			],
+			[
+				"QUERY",
+				"QUERY"
+			],
+			[
+				"QUE",
+				"QUERY_USER_GROUPS"
+			],
+			[
+				"HTTP",
+				"HTTPStatusException"
+			],
+			[
+				"max",
+				"reseller_max_seats"
+			],
+			[
+				"Auth",
+				"Authentication"
+			],
+			[
+				"exec",
+				"execPreparedResult"
+			],
+			[
+				"Q",
+				"QUERY_ALL"
+			],
+			[
+				"ut",
+				"utils"
+			],
+			[
+				"f",
+				"fragments"
+			],
+			[
+				"res",
+				"resellerid"
+			],
+			[
+				"cu",
+				"customer"
+			],
+			[
+				"reseller",
+				"resellerid"
+			],
+			[
+				"custom",
+				"customer"
+			],
+			[
+				"customer",
+				"customer"
+			],
+			[
+				"resell",
+				"resellers"
+			],
+			[
+				"resel",
+				"reseller_max_seats"
+			],
+			[
+				"reseller_",
+				"reseller_max_seats"
+			],
+			[
+				"se",
+				"sendEmail"
+			],
+			[
+				"rese",
+				"reseller"
+			],
+			[
+				"acc",
+				"account_manager"
+			],
+			[
+				"top",
+				"top_level_groupid"
+			],
+			[
+				"render",
+				"renderCompat"
+			],
+			[
+				"HT",
+				"HTTPServerResponse"
+			],
+			[
+				"customers",
+				"customers"
+			],
+			[
+				"def",
+				"defaultCampaign"
+			],
+			[
+				"rend",
+				"renderCompat"
+			],
+			[
+				"Perm",
+				"PermissionSet"
+			],
+			[
+				"im",
+				"immutable"
+			],
+			[
+				"HTT",
+				"HTTPStatusException"
+			],
+			[
+				"pER",
+				"PermissionSet"
+			],
+			[
+				"defa",
+				"defaultCampaign"
+			],
+			[
+				"qu",
+				"QUERY"
+			],
+			[
+				"up",
+				"UserProfile"
+			],
+			[
+				"s",
+				"string"
+			],
+			[
+				"My",
+				"MySQLDialect"
+			],
+			[
+				"U",
+				"UserAPIImpl"
+			],
+			[
+				"IUs",
+				"IUserAPIImpl"
+			],
+			[
+				"is",
+				"isKeySet"
+			],
+			[
+				"login",
+				"login_error"
+			],
+			[
+				"actual",
+				"actual_password"
+			],
+			[
+				"inde",
+				"indexOf"
+			],
+			[
+				"req",
+				"requestURL"
+			],
+			[
+				"sess",
+				"session_store	*sessions.CookieStore ν"
+			],
+			[
+				"n",
+				"NewCookieStore	*sessions.CookieStore ƒ"
+			],
+			[
+				"par",
+				"ParseInt	i int64, err error ƒ"
+			],
+			[
+				"Pars",
+				"Parse	url *url.URL, err error ƒ"
+			],
+			[
+				"nav-",
+				"nav-stacked"
+			],
+			[
+				"color",
+				"background-color"
+			],
+			[
+				"inner",
+				"innerText"
+			],
+			[
+				"attr",
+				"attributes"
+			],
+			[
+				"data-",
+				"data-bind"
+			],
+			[
+				"att",
+				"attributes"
+			],
+			[
+				"getEl",
+				"getElementsByClassName"
+			],
+			[
+				"uservi",
+				"userview_tmpl"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"doc",
+				"document"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"selec",
+				"selected"
+			],
+			[
+				"userv",
+				"userview_template"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"getE",
+				"getElementsByTagName"
+			],
+			[
+				"img",
+				"background-image"
+			],
+			[
+				"orig_do",
+				"orig_doAction"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"style",
+				"font-style"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"border",
+				"border-left"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"UR",
+				"RequestURI	string ν"
+			],
+			[
+				"PA",
+				"Path	string ν"
+			],
+			[
+				"ind",
+				"LastIndex	int ƒ"
+			],
+			[
+				"h",
+				"Handle	 ƒ"
+			],
+			[
+				"serve",
+				"ServeMux	struct ʈ"
+			],
+			[
+				"d",
+				"RootDir	string ν"
+			],
+			[
+				"P",
+				"_POST"
+			],
+			[
+				"ma",
+				"moutainBike	composition.Bicycle ν"
+			],
+			[
+				"R",
+				"RoadBikeParts	Parts ν"
+			],
+			[
+				"Read",
+				"Read	n int, err error ƒ"
+			],
+			[
+				"Rea",
+				"ReadByte	c byte, err error ƒ"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "goport_test.d",
+			"settings":
+			{
+				"buffer_size": 789,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "traits.d",
+			"settings":
+			{
+				"buffer_size": 2748,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/usr/include/dmd/phobos/std/typecons.d",
+			"settings":
+			{
+				"buffer_size": 101548,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/usr/include/dmd/phobos/std/typetuple.d",
+			"settings":
+			{
+				"buffer_size": 27314,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/rmcguire/Documents/Programming/d/src/github.com/rejectedsoftware/vibe.d/source/vibe/http/rest.d",
+			"settings":
+			{
+				"buffer_size": 29765,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/rmcguire/Documents/Programming/d/src/github.com/rejectedsoftware/vibe.d/source/vibe/http/restutil.d",
+			"settings":
+			{
+				"buffer_size": 15592,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 285.0,
+		"selected_items":
+		[
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				"th",
+				"Hex Viewer: Toggle Hex View"
+			],
+			[
+				"wr",
+				"Word Wrap: Toggle"
+			],
+			[
+				"hex",
+				"Hex Viewer: Toggle Hex View"
+			],
+			[
+				"toggleh",
+				"Hex Viewer: Toggle Hex View"
+			],
+			[
+				"hix",
+				"Hex Viewer: Toggle Hex View"
+			],
+			[
+				"show",
+				"Hex Viewer: Show Hex Edit Panel"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"taks",
+				"Tasks: New document"
+			],
+			[
+				"new",
+				"Tasks: New"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"ssgo",
+				"Set Syntax: Go"
+			],
+			[
+				"todo",
+				"Set Syntax: mdTodo"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"mo",
+				"File: Move"
+			],
+			[
+				"tra",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"tr",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"trail",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"str",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"lowe",
+				"Convert Case: Lower Case"
+			],
+			[
+				"spac",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"strip",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"spaces",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"expa",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"insat",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"inde",
+				"Auto indent"
+			],
+			[
+				"exp",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"exa",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"emmex",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"emmeex",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"emex",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"emmetex",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"GoSublime: ",
+				"GoSublime: Browse Packages"
+			],
+			[
+				"GoSublime: ca",
+				"GoSublime: Show call tip"
+			],
+			[
+				"GoSublime: go",
+				"GoSublime: Goto Definition"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"tas",
+				"Tasks: New document"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"GoSublime: upda",
+				"GoSublime: Install/Update MarGo and Gocode"
+			],
+			[
+				"decod",
+				"StringEncode: Base64 Decode"
+			],
+			[
+				"decode",
+				"StringEncode: Base64 Decode"
+			],
+			[
+				"enc",
+				"StringEncode: Base64 Decode"
+			],
+			[
+				"base",
+				"Zen Coding: Endcode/decode base64"
+			],
+			[
+				"GoSublime: up",
+				"GoSublime: Install/Update MarGo and Gocode"
+			],
+			[
+				"Task",
+				"Tasks: New document"
+			],
+			[
+				"hml",
+				"Set Syntax: HTML"
+			],
+			[
+				"GoSublime: op",
+				"GoSublime: Open shell/build prompt"
+			],
+			[
+				"dis",
+				"SublimeCodeIntel: Disable Plugin"
+			],
+			[
+				"lint",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"disa",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"gomar",
+				"GoSublime: Install/Update MarGo and Gocode"
+			],
+			[
+				"GoSublime: de",
+				"GoSublime: Goto Definition"
+			],
+			[
+				"GoSublime: gs",
+				"GoSublime: Activate GsCommander"
+			],
+			[
+				"upgr",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"GoSublime: pac",
+				"GoSublime: Browse Packages"
+			],
+			[
+				"GoSublime: lis",
+				"GoSublime: List File declarations"
+			],
+			[
+				"GoSublime: imp",
+				"GoSublime: Go to imports section"
+			],
+			[
+				"GoSublime: g",
+				"GoSublime: Goto Definition"
+			],
+			[
+				"GoSublime: cal",
+				"GoSublime: Show call tip"
+			],
+			[
+				"GoSublime: bui",
+				"GoSublime: Open shell/build prompt"
+			],
+			[
+				"GoSublime: def",
+				"GoSublime: Goto Definition"
+			],
+			[
+				"gobui",
+				"GoSublime: Open shell/build prompt"
+			],
+			[
+				"gosu",
+				"GoSublime: Open shell/build prompt"
+			],
+			[
+				"go",
+				"GoSublime: Play/Run (current file only)"
+			],
+			[
+				"bui",
+				"Build: Build"
+			],
+			[
+				"gosinsta",
+				"GoSublime: Install/Update MarGo and Gocode"
+			],
+			[
+				"pret",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"html",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"space",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"spa",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"trai",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"deco",
+				"Zen Coding: Endcode/decode base64"
+			],
+			[
+				"dec",
+				"Zen Coding: Endcode/decode base64"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 386.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/rmcguire/Documents/Programming/d/src/rmcguire/goport/time.d",
+		"/home/rmcguire/Documents/Programming/d/src/rmcguire/goport/goroutine.d",
+		"/home/rmcguire/Documents/Programming/d/src/rmcguire/goport/channel.d",
+		"/usr/include/dmd/phobos/std/traits.d",
+		"/home/rmcguire/Downloads/dmd/dmd2/src/druntime/src/core/exception.d",
+		"/home/rmcguire/.local/share/applications/eclipse.desktop",
+		"/home/rmcguire/tmp.hex",
+		"/home/rmcguire/Documents/Work/GroveIS/Grant Street Group/deletion_policy.js",
+		"/home/rmcguire/Downloads/c/hidapi/testgui/test.cpp",
+		"/home/rmcguire/Documents/Programming/go/src/rmcguire/mysql_rest_api/server/types.go",
+		"/home/rmcguire/Documents/Programming/go/src/rmcguire/mysql_rest_api/sqlstruct/sql_struct.go",
+		"/home/rmcguire/Documents/Programming/go/src/rmcguire/mysql_rest_api/sql_struct.go",
+		"/home/rmcguire/Documents/Programming/go/src/rmcguire/mysql_rest_api/server/server.conf",
+		"/home/rmcguire/Documents/Programming/go/src/rmcguire/db_sync/db.go",
+		"/home/rmcguire/Documents/Programming/go/src/rmcguire/mysql_rest_api/mysql_rest_api.sublime-project",
+		"/home/rmcguire/Documents/Programming/d/src/rmcguire/cf-web/source/asdf",
+		"/home/rmcguire/Documents/Programming/d/src/github.com/rejectedsoftware/mysql-native/source/mysql/connection.d",
+		"/home/rmcguire/Documents/Programming/d/src/rmcguire/cf-web/cf-web.sublime-project",
+		"/home/rmcguire/Documents/Programming/d/src/rmcguire/cf-web/source/web_auth.d",
+		"/home/rmcguire/Documents/Programming/d/src/rmcguire/cf-web/source/db.d",
+		"/home/rmcguire/Documents/Programming/d/src/rmcguire/cf-web/source/web_server_main.d",
+		"/home/rmcguire/Documents/Programming/d/src/rmcguire/cf-web/source/account_chooser.d",
+		"/home/rmcguire/Documents/Programming/d/src/rmcguire/cf-web/views/user.dt",
+		"/home/rmcguire/Documents/Programming/d/src/rmcguire/cf-web/views/utils.dt",
+		"/home/rmcguire/Documents/Programming/d/src/rmcguire/cf-web/views/group_nav.dt",
+		"/home/rmcguire/Documents/Work/GroveIS/vpn-config-usa-uk.ipsec.conf",
+		"/home/rmcguire/Documents/Programming/d/src/rmcguire/cf-web/views/login.dt",
+		"/home/rmcguire/Documents/Programming/d/src/rmcguire/cf-web/public/js/main.js",
+		"/home/rmcguire/Documents/Programming/d/src/rmcguire/cf-web/views/resellers.dt",
+		"/home/rmcguire/Documents/Programming/d/src/rmcguire/cf-web/views/customers.dt",
+		"/home/rmcguire/Documents/Programming/d/src/rmcguire/cf-web/public/fragments/admin.html",
+		"/home/rmcguire/Documents/Programming/d/src/rmcguire/cf-web/public/js/jquery.baldrick.js",
+		"/home/rmcguire/Documents/Programming/d/src/rmcguire/cf-web/public/fragments/authentication.html",
+		"/home/rmcguire/Documents/Programming/d/src/rmcguire/cf-web/public/fragments/users.html",
+		"/home/rmcguire/Documents/Programming/d/src/rmcguire/cf-web/views/paginated_users.dt",
+		"/home/rmcguire/Documents/Programming/d/src/github.com/rejectedsoftware/vibe.d/source/vibe/db/redis/redis.d",
+		"/home/rmcguire/Downloads/template/template.htm",
+		"/home/rmcguire/Documents/Programming/d/src/rmcguire/cf-web/public/index.html",
+		"/home/rmcguire/Documents/Programming/d/src/rmcguire/cf-web/public/fragments/customers.html",
+		"/home/rmcguire/Documents/Programming/d/src/rmcguire/cf-web/public/fragments/resellers.html",
+		"/home/rmcguire/Documents/Programming/d/src/rmcguire/cf-web/public/fragments/branding.html",
+		"/home/rmcguire/Documents/Programming/d/src/rmcguire/cf-web/public/fragments/re-inject.html",
+		"/home/rmcguire/Documents/Programming/d/src/rmcguire/cf-web/public/fragments/reports.html",
+		"/home/rmcguire/.config/sublime-text-2/Packages/GoSublime/CHANGELOG.md",
+		"/home/rmcguire/Documents/Programming/tests/bash/process_monitor.sh",
+		"/home/rmcguire/Documents/Programming/d/src/github.com/rejectedsoftware/dub/source/dub/compilers/compiler.d",
+		"/home/rmcguire/Documents/Programming/d/src/rmcguire/cf-web/views/group_nav2.dt",
+		"/home/rmcguire/Documents/Programming/d/src/rmcguire/cf-web/views/group_authentication.dt",
+		"/home/rmcguire/Documents/Programming/d/src/github.com/rejectedsoftware/vibe.d/source/vibe/data/json.d",
+		"/home/rmcguire/Documents/Programming/d/src/rmcguire/cf-web/views/group_breadcrumb.dt",
+		"/home/rmcguire/Documents/Programming/d/src/github.com/rejectedsoftware/vibe.d/source/vibe/inet/path.d",
+		"/home/rmcguire/Documents/Programming/d/src/rmcguire/cf-web/source/cf.d",
+		"/home/rmcguire/Documents/Programming/d/src/github.com/rejectedsoftware/mysql-native/source/app.d",
+		"/home/rmcguire/Documents/Programming/d/src/github.com/rejectedsoftware/mysql-native/source/mysql/db.d",
+		"/home/rmcguire/Documents/Programming/d/src/github.com/rejectedsoftware/vibe.d/examples/redis/source/app.d",
+		"/home/rmcguire/Documents/Programming/d/src/github.com/rejectedsoftware/vibe.d/examples/mongodb/source/app.d",
+		"/home/rmcguire/Documents/Programming/Projects/clearformat_web/www/evo2/lib/Clearformat/ClearformatAuthenticationV2.php",
+		"/home/rmcguire/Pictures/1/template.htm",
+		"/home/rmcguire/Documents/Programming/d/src/rmcguire/cf-web/views/users.dt",
+		"/home/rmcguire/Documents/Programming/d/src/rmcguire/cf-web/public/fragments/utils.html",
+		"/home/rmcguire/.config/sublime-text-2/Packages/GoSublime/USAGE.md",
+		"/home/rmcguire/Documents/Programming/d/src/rmcguire/cf-web/public/js/baldrick.js",
+		"/home/rmcguire/Documents/Programming/d/src/rmcguire/cf-web/sql/accounts.sql",
+		"/home/rmcguire/Documents/Programming/d/src/rmcguire/cf-web/views/customer.dt",
+		"/home/rmcguire/Documents/Work/GroveIS/apps scripts/pdfarchive_subdir_from_labelpath.gs",
+		"/home/rmcguire/Documents/Programming/d/src/rmcguire/cf-web/public/fragments/group_breadcrumb.html",
+		"/home/rmcguire/Documents/Programming/d/src/rmcguire/cf-web/public/fragments/group_nav.html",
+		"/home/rmcguire/Documents/Programming/d/src/rmcguire/cf-web/views/group_hierarchy.dt",
+		"/home/rmcguire/Documents/Work/GroveIS/VOSS - benefit portal/views/employee_benefits.dt",
+		"/home/rmcguire/Documents/Work/GroveIS/VOSS-benefitportal/views/list_employees.dt",
+		"/home/rmcguire/Documents/Work/GroveIS/VOSS-benefitportal/public/fragments/index.html",
+		"/home/rmcguire/Documents/Work/GroveIS/VOSS - benefit portal/fragments/employee_benefits.dt",
+		"/home/rmcguire/Documents/Work/GroveIS/apps scripts/pdfarchive_orig.gs",
+		"/home/rmcguire/Documents/Programming/d/src/rmcguire/cf-web/public/NEXT:",
+		"/home/rmcguire/Documents/Work/GroveIS/apps scripts/expense_tracking_approval.gs",
+		"/home/rmcguire/Documents/Programming/d/src/rmcguire/cf-web/views/reseller.dt",
+		"/home/rmcguire/Documents/Programming/d/src/rmcguire/cf-web/public/fragments/campaigns.html",
+		"/home/rmcguire/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/rmcguire/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/rmcguire/Documents/Programming/d/src/github.com/rejectedsoftware/vibe.d/examples/json/source/app.d",
+		"/home/rmcguire/Documents/Programming/d/src/rmcguire/cf-web/public/fragments/done/user.html",
+		"/home/rmcguire/Documents/Programming/d/src/rmcguire/cf-web/public/fragments/user-pagination.html",
+		"/home/rmcguire/Documents/Programming/d/src/rmcguire/cf-web/public/fragments/user.html",
+		"/home/rmcguire/Documents/Programming/d/src/rmcguire/cf-web/public/js/livedata.js",
+		"/home/rmcguire/Documents/Programming/d/src/rmcguire/cf-web/public/js/template.js",
+		"/home/rmcguire/Documents/Programming/tests/html/livedata.html",
+		"/home/rmcguire/Documents/Programming/d/src/rmcguire/cf-web/source/api.d",
+		"/home/rmcguire/Documents/Programming/tests/html/js/livedata.js",
+		"/home/rmcguire/Documents/Programming/tests/html/js/template.js",
+		"/home/rmcguire/Documents/Programming/tests/html/templates.html",
+		"/home/rmcguire/Documents/Programming/tests/html/custom-tags.html",
+		"/home/rmcguire/Documents/Programming/d/src/github.com/rejectedsoftware/vibe.d/examples/rest/source/app.d",
+		"/home/rmcguire/Downloads/template/test.eml",
+		"/home/rmcguire/Documents/Programming/d/src/github.com/rejectedsoftware/vibe.d/source/vibe/http/fileserver.d",
+		"/home/rmcguire/Documents/Programming/tests/d/listmembers.d",
+		"/home/rmcguire/Documents/Programming/tests/d/listmembers",
+		"/home/rmcguire/Documents/Programming/d/src/rmcguire/mysql-native-example/source/app.d",
+		"/home/rmcguire/Documents/Programming/d/src/github.com/Abscissa/ddbc/source/ddbc/core.d",
+		"/home/rmcguire/Documents/Programming/d/src/github.com/Abscissa/hibernated/source/hibernated/type.d",
+		"/home/rmcguire/Documents/Programming/d/src/github.com/Abscissa/hibernated/source/hibernated/dialect.d",
+		"/home/rmcguire/Documents/Programming/d/src/github.com/Abscissa/hibernated/source/hibernated/session.d",
+		"/home/rmcguire/Documents/Programming/d/src/github.com/Abscissa/hibernated/source/hibernated/core.d",
+		"/home/rmcguire/Documents/Programming/d/src/github.com/Abscissa/hibernated/source/hibernated/metadata.d",
+		"/home/rmcguire/Documents/Programming/tests/d/whitehole.d",
+		"/usr/include/dmd/phobos/std/typecons.d",
+		"/home/rmcguire/Documents/Programming/d/src/github.com/Abscissa/hibernated/source/hibernated/dialects/pgsqldialect.d",
+		"/home/rmcguire/Documents/Programming/tests/d/noinit.d",
+		"/home/rmcguire/Documents/Programming/d/src/github.com/Abscissa/hibernated/source/hibernated/tests.d",
+		"/home/rmcguire/Documents/Programming/d/src/rmcguire/hibernated_example/source/app.d",
+		"/home/rmcguire/Documents/Programming/d/src/github.com/Abscissa/hibernated/source/hibernated/dialects/mysqldialect.d",
+		"/home/rmcguire/Documents/Programming/d/src/github.com/Abscissa/hibernated/source/hibernated/dialects/sqlitedialect.d",
+		"/home/rmcguire/Documents/Programming/d/src/rmcguire/cf-web/source/api_server_main.d",
+		"/home/rmcguire/Documents/Programming/d/src/rmcguire/cf-web/.dub/packages/vibe-d/source/vibe/core/file.d",
+		"/home/rmcguire/Documents/Programming/d/src/rmcguire/cf-web/.dub/packages/vibe-d/source/vibe/vpm/installation.d",
+		"/home/rmcguire/Documents/Programming/d/src/rmcguire/cf-web/.dub/packages/vibe-d/source/vibe/http/fileserver.d",
+		"/home/rmcguire/Documents/Programming/d/src/github.com/Abscissa/ddbc/source/ddbc/drivers/mysql.d",
+		"/home/rmcguire/Documents/Programming/d/src/github.com/buggins/hibernated/source/hibernated/metadata.d",
+		"/home/rmcguire/Documents/Programming/d/src/github.com/buggins/hibernated/source/hibernated/dialects/mysqldialect.d",
+		"/home/rmcguire/Documents/Programming/d/src/github.com/buggins/hibernated/.dub/packages/ddbc/source/ddbc/drivers/mysql.d",
+		"/home/rmcguire/Documents/Programming/d/src/github.com/buggins/hibernated/source/hibernated/dialects/pgsqldialect.d",
+		"/home/rmcguire/Documents/Programming/d/src/github.com/buggins/hibernated/source/hibernated/dialects/sqlitedialect.d",
+		"/home/rmcguire/Documents/Programming/d/src/rmcguire/cf-web/package.json",
+		"/home/rmcguire/Documents/Programming/d/src/rmcguire/cf-web/.dub/packages/hibernated/source/hibernated/dialects/mysqldialect.d",
+		"/home/rmcguire/Documents/Programming/d/src/rmcguire/cf-web/.dub/packages/hibernated/source/hibernated/dialects/sqlitedialect.d",
+		"/home/rmcguire/Documents/Programming/d/src/rmcguire/cf-web/.dub/packages/hibernated/source/hibernated/dialects/pgsqldialect.d",
+		"/home/rmcguire/Documents/Programming/d/src/rmcguire/cf-web/source/auth.d",
+		"/home/rmcguire/Documents/Programming/d/src/github.com/rejectedsoftware/mysql-native/package.json",
+		"/home/rmcguire/Documents/Programming/d/src/rmcguire/cf-web/source/app_api.d"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<project>",
+			"/home/rmcguire/Documents/Programming/go/src/rmcguire/www-sock-test",
+			"/home/rmcguire/Documents/Programming/go",
+			"<project>",
+			"~/Documents/Programming/go/",
+			"<project>",
+			"/home/rmcguire/Documents/Programming/go",
+			"<project>",
+			"/home/rmcguire/Documents/Programming/go",
+			"/home/rmcguire/Documents/Programming/go/src/go.crypto",
+			"/usr/local/go/src/pkg/os",
+			"/usr/local/go/src/pkg"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"TypeTuple",
+			"struct TypeTuple",
+			"TypeTuple",
+			"tuple",
+			"reduceToInterface",
+			"if",
+			"\\\\\"",
+			"Usage Page",
+			"(<div style=[\"']border:none;border-top:solid .*?><p class=[\"']?MsoNormal[\"']?><b><span .*?>From:</span></b>.*?<b>Sent:</b> .*?<br><b>To:</b>|<div class=\"gmail_quote\">|<blockquote class=\"gmail_quote\"[^>]+>|<div><br><div><div>On [^\\n]+ wrote:</div><br class=\"Apple-interchange-newline\"><blockquote type=\"cite\">|<div><br><div>Begin forwarded message:.*?<blockquote type=\"cite\">|<div><br>Begin forwarded message:.*?<blockquote type=\"cite\">|<div>[\\w\\s']*?.?(<br>)*Begin forwarded message:(<br>)*</div><blockquote type=\"cite\">|\\nOn [^\\n]+ wrote:|<BLOCKQUOTE.*?-----Original Message-----|<div[^>]*><font[^>]*>(<div[^>]*>)?-----Original Message-----|<div><br>On [^\\n]*? wrote:<br>.?<br></div><div></div><blockquote type=\"cite\">|<span id=\"OLK_SRC_BODY_SECTION\">|<br>[\\s\\n]*On [^\\n]+ wrote:(<br>|\\n)|Sent from my Sony Ericsson X10<br>.<br>.[^\\n]+? wrote:<br>|Sent from my Sony Ericsson X10<br>.<br>.-------- Original Message --------<br>|<div><div [^\\n]+?>\\n<p class=\"MsoNormal\">\\n<b><span style=\"[^\\n]+?\">From:</span></b>|<div style=\"border:none;border-top:[^\\n]+>\\n<p class=[\"']?MsoNormal['\"]?><b><span[^>]+>From:|\\n<p class=\"MsoNormal\"><b><span style=\"[^>]*?\">From:</span></b>|(<div>)+On [^\\n]+ wrote:|<p class=\"MsoNormal\"><b><span style=\"[^>]+>From:</span></b>|<br>\\s*On[^\\n]*wrote:\\s|<div style='border:none;border-top:solid [^>]+>\\s*(<p class=MsoNormal>)?<b><span style='[^']+'>From:</span>|<BLOCKQUOTE [^>]+?>\\s+<DIV[^\\n]+----- Original Message ----- </DIV>|<div [^>]+border-top-style[^>]+>(<div [^>]+>)?<b><span [^>]+>From:|<div [^>]+border-top:solid [^>]+>(<p class=\"MsoNormal\">)?|<div[^<]+<div[^<]+<font[^<]+<span[^<]+<hr[^<]+</span></font></div>[^<]+<p[^<]+<b><font[^<]+<span[^<]+From:|(<DIV[^<]+<HR[^<]+(</DIV>[^<]+)?)?<DIV[^<]+class=\"?OutlookMessageHeader\"?[^<]+<HR[^<]+<FONT[^<]+<B[^<]+From:</B>|<p[^<]+(<b>)?<span[^<]+From:|<div[^<]+<br[^<]+<div[^<]+Sent from my iPhone|<br>(\\n)?---------- Forwarded message ----------<br>(\\n)?From:|\\nBegin forwarded message:.{1,17}From:|<div class=\"moz-forward-container\">|<div class=\"moz-cite-prefix\">|<br>\\n-----Original Message-----<br>\\nFrom:|<hr/><div><b>From: ?</b>|<p[^<]+<span[^<]+>On.*?</span>wrote:<o:p></o:p></span>|</body>)",
+			"(<div style=[\"']border:none;border-top:solid .*?><p class=[\"']?MsoNormal[\"']?><b><span .*?>From:</span></b>.*?<b>Sent:</b> .*?<br><b>To:</b>|<div class=\"gmail_quote\">|<blockquote class=\"gmail_quote\"[^>]+>|<div><br><div><div>On [^\\n]+ wrote:</div><br class=\"Apple-interchange-newline\"><blockquote type=\"cite\">|<div><br><div>Begin forwarded message:.*?<blockquote type=\"cite\">|<div><br>Begin forwarded message:.*?<blockquote type=\"cite\">|<div>[\\w\\s']*?.?(<br>)*Begin forwarded message:(<br>)*</div><blockquote type=\"cite\">|\\nOn [^\\n]+ wrote:|<BLOCKQUOTE.*?-----Original Message-----|<div[^>]*><font[^>]*>(<div[^>]*>)?-----Original Message-----|<div><br>On [^\\n]*? wrote:<br>.?<br></div><div></div><blockquote type=\"cite\">|<span id=\"OLK_SRC_BODY_SECTION\">|<br>[\\s\\n]*On [^\\n]+ wrote:(<br>|\\n)|Sent from my Sony Ericsson X10<br>.<br>.[^\\n]+? wrote:<br>|Sent from my Sony Ericsson X10<br>.<br>.-------- Original Message --------<br>|<div><div [^\\n]+?>\\n<p class=\"MsoNormal\">\\n<b><span style=\"[^\\n]+?\">From:</span></b>|<div style=\"border:none;border-top:[^\\n]+>\\n<p class=[\"']?MsoNormal['\"]?><b><span[^>]+>From:|\\n<p class=\"MsoNormal\"><b><span style=\"[^>]*?\">From:</span></b>|(<div>)+On [^\\n]+ wrote:|<p class=\"MsoNormal\"><b><span style=\"[^>]+>From:</span></b>|<br>\\s*On[^\\n]*wrote:\\s|<div style='border:none;border-top:solid [^>]+>\\s*(<p class=MsoNormal>)?<b><span style='[^']+'>From:</span>|<BLOCKQUOTE [^>]+?>\\s+<DIV[^\\n]+----- Original Message ----- </DIV>|<div [^>]+border-top-style[^>]+>(<div [^>]+>)?<b><span [^>]+>From:|<div [^>]+border-top:solid [^>]+>(<p class=\"MsoNormal\">)?|<div[^<]+<div[^<]+<font[^<]+<span[^<]+<hr[^<]+</span></font></div>[^<]+<p[^<]+<b><font[^<]+<span[^<]+From:|(<DIV[^<]+<HR[^<]+(</DIV>[^<]+)?)?<DIV[^<]+class=\"?OutlookMessageHeader\"?[^<]+<HR[^<]+<FONT[^<]+<B[^<]+From:</B>|<p[^<]+(<b>)?<span[^<]+From:|<div[^<]+<br[^<]+<div[^<]+Sent from my iPhone|<br>(\\n)?---------- Forwarded message ----------<br>(\\n)?From:|\\nBegin forwarded message:.{1,17}From:|<div class=\"moz-forward-container\">|<div class=\"moz-cite-prefix\">|<br>\\n-----Original Message-----<br>\\nFrom:|<hr/><div><b>From: ?</b>|<p[^<]+<span[^<]+>On.*?</span>wrote:<o:p></o:p></span>)",
+			"(<div style=[\"']border:none;border-top:solid .*?><p class=[\"']?MsoNormal[\"']?><b><span .*?>From:</span></b>.*?<b>Sent:</b> .*?<br><b>To:</b>|<div class=\"gmail_quote\">|<blockquote class=\"gmail_quote\"[^>]+>|<div><br><div><div>On [^\\n]+ wrote:</div><br class=\"Apple-interchange-newline\"><blockquote type=\"cite\">|<div><br><div>Begin forwarded message:.*?<blockquote type=\"cite\">|<div><br>Begin forwarded message:.*?<blockquote type=\"cite\">|<div>[\\w\\s']*?.?(<br>)*Begin forwarded message:(<br>)*</div><blockquote type=\"cite\">|\\nOn [^\\n]+ wrote:|<BLOCKQUOTE.*?-----Original Message-----|<div[^>]*><font[^>]*>(<div[^>]*>)?-----Original Message-----|<div><br>On [^\\n]*? wrote:<br>.?<br></div><div></div><blockquote type=\"cite\">|<span id=\"OLK_SRC_BODY_SECTION\">|<br>[\\s\\n]*On [^\\n]+ wrote:(<br>|\\n)|Sent from my Sony Ericsson X10<br>.<br>.[^\\n]+? wrote:<br>|Sent from my Sony Ericsson X10<br>.<br>.-------- Original Message --------<br>|<div><div [^\\n]+?>\\n<p class=\"MsoNormal\">\\n<b><span style=\"[^\\n]+?\">From:</span></b>|<div style=\"border:none;border-top:[^\\n]+>\\n<p class=[\"']?MsoNormal['\"]?><b><span[^>]+>From:|\\n<p class=\"MsoNormal\"><b><span style=\"[^>]*?\">From:</span></b>|(<div>)+On [^\\n]+ wrote:|<p class=\"MsoNormal\"><b><span style=\"[^>]+>From:</span></b>|<br>\\s*On[^\\n]*wrote:\\s|<div style='border:none;border-top:solid [^>]+>\\s*(<p class=MsoNormal>)?<b><span style='[^']+'>From:</span>|<BLOCKQUOTE [^>]+?>\\s+<DIV[^\\n]+----- Original Message ----- </DIV>|<div [^>]+border-top-style[^>]+>(<div [^>]+>)?<b><span [^>]+>From:|<div [^>]+border-top:solid [^>]+>(<p class=\"MsoNormal\">)?|<div[^<]+<div[^<]+<font[^<]+<span[^<]+<hr[^<]+</span></font></div>[^<]+<p[^<]+<b><font[^<]+<span[^<]+From:|(<DIV[^<]+<HR[^<]+(</DIV>[^<]+)?)?<DIV[^<]+class=\"?OutlookMessageHeader\"?[^<]+<HR[^<]+<FONT[^<]+<B[^<]+From:</B>|<p[^<]+(<b>)?<span[^<]+From:|<div[^<]+<br[^<]+<div[^<]+Sent from my iPhone|<br>(\\n)?---------- Forwarded message ----------<br>(\\n)?From:|\\nBegin forwarded message:.{1,17}From:|<div class=\"moz-forward-container\">|<div class=\"moz-cite-prefix\">|<br>\\n-----Original Message-----<br>\\nFrom:|<hr/><div><b>From: ?</b>|<p[^<]+<span[^<]+>On[.]*?</span>wrote:<o:p></o:p></span>)",
+			"(<div style=[\"']border:none;border-top:solid .*?><p class=[\"']?MsoNormal[\"']?><b><span .*?>From:</span></b>.*?<b>Sent:</b> .*?<br><b>To:</b>|<div class=\"gmail_quote\">|<blockquote class=\"gmail_quote\"[^>]+>|<div><br><div><div>On [^\\n]+ wrote:</div><br class=\"Apple-interchange-newline\"><blockquote type=\"cite\">|<div><br><div>Begin forwarded message:.*?<blockquote type=\"cite\">|<div><br>Begin forwarded message:.*?<blockquote type=\"cite\">|<div>[\\w\\s']*?.?(<br>)*Begin forwarded message:(<br>)*</div><blockquote type=\"cite\">|\\nOn [^\\n]+ wrote:|<BLOCKQUOTE.*?-----Original Message-----|<div[^>]*><font[^>]*>(<div[^>]*>)?-----Original Message-----|<div><br>On [^\\n]*? wrote:<br>.?<br></div><div></div><blockquote type=\"cite\">|<span id=\"OLK_SRC_BODY_SECTION\">|<br>[\\s\\n]*On [^\\n]+ wrote:(<br>|\\n)|Sent from my Sony Ericsson X10<br>.<br>.[^\\n]+? wrote:<br>|Sent from my Sony Ericsson X10<br>.<br>.-------- Original Message --------<br>|<div><div [^\\n]+?>\\n<p class=\"MsoNormal\">\\n<b><span style=\"[^\\n]+?\">From:</span></b>|<div style=\"border:none;border-top:[^\\n]+>\\n<p class=[\"']?MsoNormal['\"]?><b><span[^>]+>From:|\\n<p class=\"MsoNormal\"><b><span style=\"[^>]*?\">From:</span></b>|(<div>)+On [^\\n]+ wrote:|<p class=\"MsoNormal\"><b><span style=\"[^>]+>From:</span></b>|<br>\\s*On[^\\n]*wrote:\\s|<div style='border:none;border-top:solid [^>]+>\\s*(<p class=MsoNormal>)?<b><span style='[^']+'>From:</span>|<BLOCKQUOTE [^>]+?>\\s+<DIV[^\\n]+----- Original Message ----- </DIV>|<div [^>]+border-top-style[^>]+>(<div [^>]+>)?<b><span [^>]+>From:|<div [^>]+border-top:solid [^>]+>(<p class=\"MsoNormal\">)?|<div[^<]+<div[^<]+<font[^<]+<span[^<]+<hr[^<]+</span></font></div>[^<]+<p[^<]+<b><font[^<]+<span[^<]+From:|(<DIV[^<]+<HR[^<]+(</DIV>[^<]+)?)?<DIV[^<]+class=\"?OutlookMessageHeader\"?[^<]+<HR[^<]+<FONT[^<]+<B[^<]+From:</B>|<p[^<]+(<b>)?<span[^<]+From:|<div[^<]+<br[^<]+<div[^<]+Sent from my iPhone|<br>(\\n)?---------- Forwarded message ----------<br>(\\n)?From:|\\nBegin forwarded message:.{1,17}From:|<div class=\"moz-forward-container\">|<div class=\"moz-cite-prefix\">|<br>\\n-----Original Message-----<br>\\nFrom:|<hr/><div><b>From: ?</b>)",
+			"=3D",
+			"(<div style=[\"']border:none;border-top:solid .*?><p class=[\"']?MsoNormal[\"']?><b><span .*?>From:</span></b>.*?<b>Sent:</b> .*?<br><b>To:</b>|<div class=\"gmail_quote\">|<blockquote class=\"gmail_quote\"[^>]+>|<div><br><div><div>On [^\\n]+ wrote:</div><br class=\"Apple-interchange-newline\"><blockquote type=\"cite\">|<div><br><div>Begin forwarded message:.*?<blockquote type=\"cite\">|<div><br>Begin forwarded message:.*?<blockquote type=\"cite\">|<div>[\\w\\s']*?.?(<br>)*Begin forwarded message:(<br>)*</div><blockquote type=\"cite\">|\\nOn [^\\n]+ wrote:|<BLOCKQUOTE.*?-----Original Message-----|<div[^>]*><font[^>]*>(<div[^>]*>)?-----Original Message-----|<div><br>On [^\\n]*? wrote:<br>.?<br></div><div></div><blockquote type=\"cite\">|<span id=\"OLK_SRC_BODY_SECTION\">|<br>[\\s\\n]*On [^\\n]+ wrote:(<br>|\\n)|Sent from my Sony Ericsson X10<br>.<br>.[^\\n]+? wrote:<br>|Sent from my Sony Ericsson X10<br>.<br>.-------- Original Message --------<br>|<div><div [^\\n]+?>\\n<p class=\"MsoNormal\">\\n<b><span style=\"[^\\n]+?\">From:</span></b>|<div style=\"border:none;border-top:[^\\n]+>\\n<p class=[\"']?MsoNormal['\"]?><b><span[^>]+>From:|\\n<p class=\"MsoNormal\"><b><span style=\"[^>]*?\">From:</span></b>|(<div>)+On [^\\n]+ wrote:|<p class=\"MsoNormal\"><b><span style=\"[^>]+>From:</span></b>|<br>\\s*On[^\\n]*wrote:\\s|<div style='border:none;border-top:solid [^>]+>\\s*(<p class=MsoNormal>)?<b><span style='[^']+'>From:</span>|<BLOCKQUOTE [^>]+?>\\s+<DIV[^\\n]+----- Original Message ----- </DIV>|<div [^>]+border-top-style[^>]+>(<div [^>]+>)?<b><span [^>]+>From:|<div [^>]+border-top:solid [^>]+>(<p class=\"MsoNormal\">)?|<div[^<]+<div[^<]+<font[^<]+<span[^<]+<hr[^<]+</span></font></div>[^<]+<p[^<]+<b><font[^<]+<span[^<]+From:|(<DIV[^<]+<HR[^<]+(</DIV>[^<]+)?)?<DIV[^<]+class=\"?OutlookMessageHeader\"?[^<]+<HR[^<]+<FONT[^<]+<B[^<]+From:</B>|<p[^<]+(<b>)?<span[^<]+From:|<div[^<]+<br[^<]+<div[^<]+Sent from my iPhone|<br>(\\n)?---------- Forwarded message ----------<br>(\\n)?From:|\\nBegin forwarded message:.{1,17}From:|<div class=\"moz-forward-container\">|<div class=\"moz-cite-prefix\">|<br>\\n-----Original Message-----<br>\\nFrom:|<hr/><div><b>From: ?</b>)",
+			"</body",
+			"lork",
+			"lo",
+			"lork",
+			"b;lork",
+			"tablemap",
+			"Invalid query",
+			"Invalid selector",
+			"http.Error",
+			"mook",
+			"up",
+			".sql",
+			"Close",
+			".sql =",
+			".sql(",
+			"resetPacket",
+			"reset",
+			"_hStmt",
+			"login_remote_auth",
+			"prepare",
+			"mail1.clear",
+			"sub",
+			"pub",
+			"members/8997/branding/7082/",
+			"add_ben",
+			"add_been",
+			"login_remote_auth",
+			"data-target=\"user-pagination-content",
+			"data-target=\"user_content",
+			"\"use",
+			"data-request",
+			"none",
+			"\"adm",
+			"href",
+			"data-target=\"content\"",
+			"userStatusUrl",
+			"customer",
+			"permissions",
+			"loadPermissions",
+			"permissions",
+			"\\|\\s+(\\w+)\\s+\\|\\s*\\n",
+			"\\",
+			"members/8977/branding/7036/",
+			"members/8977/branding/7036/strapline",
+			"members/8977/branding/7036/",
+			"members/8977/branding/7036/strapline",
+			"members/8977/branding/7036/",
+			"parse",
+			"type",
+			"undefined",
+			"\\|\\s+(\\d+).*\\n",
+			"UserProfile",
+			"execPrepared",
+			"convert_to_reseller",
+			"}\n",
+			"rs[0]",
+			"insert",
+			"QUERY_CREATE_FROM_GROUP",
+			"QUERY_TOPLEVEL_GROUPID",
+			"isCustomertopLevelGroup",
+			"reseller",
+			"access",
+			"select_group",
+			"selected_customer",
+			"c",
+			"auto c = Command(conn);",
+			"reset",
+			"prepare",
+			"close",
+			"writeln",
+			"m_users",
+			"hrefaction",
+			"target",
+			"?target",
+			"?target=",
+			"isCustomertopLevelGroup",
+			"(\\t+)li a",
+			"has",
+			"<li class=\"dropdown-submenu\">",
+			"<a href=\"#\" tabindex=\"-1\">([^<]+)</a>",
+			"<li><a href=\"#\" tabindex=\"-1\">([^<]+)</a></li>",
+			"Email",
+			"inputEmail",
+			"benefit",
+			"basegroup",
+			"rs[0]",
+			"customer",
+			"Customer",
+			"\n",
+			"Group",
+			"group",
+			"users_cache",
+			"setAuthenticated",
+			"validate",
+			"AUTOINCREMENT",
+			"`id` BIGINT  NOT NULL",
+			"group",
+			"--------------------------------------------------------------------------------",
+			"INNODB",
+			"NULL",
+			"GROUP",
+			"index",
+			"\\(\\)",
+			"()",
+			"<(\\w+) ?(\\w+=\"[^\"]+\")* ?/?>",
+			"members/9092/branding/7206/",
+			"import",
+			"Connection",
+			"connection",
+			"Connection",
+			"app",
+			"getAllFieldList",
+			")())",
+			"property"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\"",
+			"=",
+			"RestError",
+			"",
+			"data-target=\"#user-pagination-content",
+			"data-target=\"#user_content",
+			"data-target=\"#content\"",
+			"$1 ",
+			"$1",
+			"$1,",
+			"auto c = Command(conn); scope(exit) c.releaseStatement();",
+			"$1li\\n$1\\ta",
+			"li(class=\"dropdown-submenu\")",
+			"a(href=\"#\", tabindex=\"-1\") $1",
+			"li a(href=\"#\", tabindex=\"-1\") $1",
+			"reseller",
+			"Reseller",
+			"Customer",
+			"customer",
+			"AUTO_INCREMENT",
+			"`id` BIGINT NOT NULL AUTOINCREMENT",
+			"",
+			"INNODB;",
+			"NOT NULL",
+			"TEMPLATE",
+			"\\n",
+			"$1($2)",
+			" ",
+			"",
+			"/home/rmcguire/Documents/Programming/d/src/github.com/rejectedsoftware/",
+			"...pathto...",
+			"\"",
+			"_callbacks",
+			"_sel",
+			"{",
+			"}",
+			"\\t",
+			"cfcp",
+			"$1\\n",
+			"",
+			"god",
+			"",
+			"\"",
+			">",
+			"<",
+			"&",
+			"=",
+			"img src=\"template1234/",
+			"_",
+			"<br />",
+			"\\t",
+			"<li><a data-target=\"content\" class=\"trigger\" href=\"fragments/customers.html\">$1</a></li>\\n",
+			"$1\\n",
+			"<li><a data-target=\"content\" class=\"trigger\" href=\"fragments/customers.html\">$1</a></li>\\n",
+			"$1\\n",
+			"<li><a data-target=\"content\" class=\"trigger\" href=\"fragments/customers.html\">$1</a></li>\\n",
+			"$1\\n",
+			"\\\\'",
+			"\\\\\\",
+			"\\\\",
+			"\\\\'",
+			"=",
+			"",
+			"Africa",
+			"value=\"$1\">$1<",
+			"\\\\%",
+			"\\%",
+			"$1\\t$2",
+			"''",
+			"http://mail1.clearformat.com/members/3107/branding/1812/logo.jpg",
+			"\\n\\n",
+			"\\n",
+			"",
+			"=",
+			"\\t",
+			"",
+			"=",
+			"alter table $1.components add column `isactive` tinyint(4) NOT NULL DEFAULT '1' after description;\nalter table $1.versions add column `isactive` tinyint(4) NOT NULL DEFAULT '1' after product_id;\nalter table $1.profiles add column `is_enabled` tinyint(4) NOT NULL DEFAULT '1' after extern_id;\n",
+			"'+\\n",
+			".groupIds",
+			"\\n",
+			"=",
+			"socketio.",
+			"$1",
+			"",
+			"group",
+			"$1\\t$2",
+			"\"$1\",",
+			"$1,",
+			"ess.za.net",
+			"int64",
+			"mcguire.za.net",
+			"178.63.73.207",
+			"",
+			"int",
+			"check",
+			"$1\\t$2\\t$3\\n",
+			"  |",
+			"$1\\t$2\\t$3\\n",
+			"  |",
+			"  ",
+			"$1\\t$2\\t$3",
+			"$1\\t$2",
+			"$1 ",
+			"$1,",
+			"$1",
+			"upgradable_jra-go",
+			"  ",
+			"",
+			"$1//$2",
+			"uml-root-precise",
+			"clearformat.com",
+			"\\}\\n",
+			"}\\n",
+			"\\n\\t",
+			"\\n\\t\"",
+			",\\n",
+			"",
+			"$1\\t$2\\t$3",
+			"$3\\t$2\\t$1",
+			"$2\\t$1",
+			"\\t$1",
+			"\\t",
+			" ",
+			"$1\\t$2\\t$3",
+			"$3\\t$2\\t$1",
+			"$1\\t$2",
+			"$1\\t$2\\t$3\\t$4\\t$5\\t$6\\t$7\\t$8\\t$9\\t$10"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "goport_test.d",
+					"settings":
+					{
+						"buffer_size": 789,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								100,
+								100
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/D/D.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "traits.d",
+					"settings":
+					{
+						"buffer_size": 2748,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2748,
+								2748
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/D/D.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/usr/include/dmd/phobos/std/typecons.d",
+					"settings":
+					{
+						"buffer_size": 101548,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								83741,
+								83741
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/D/D.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 67252.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/usr/include/dmd/phobos/std/typetuple.d",
+					"settings":
+					{
+						"buffer_size": 27314,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1787,
+								1787
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/D/D.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/rmcguire/Documents/Programming/d/src/github.com/rejectedsoftware/vibe.d/source/vibe/http/rest.d",
+					"settings":
+					{
+						"buffer_size": 29765,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4897,
+								4897
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/D/D.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2904.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/home/rmcguire/Documents/Programming/d/src/github.com/rejectedsoftware/vibe.d/source/vibe/http/restutil.d",
+					"settings":
+					{
+						"buffer_size": 15592,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1563,
+								1563
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/D/D.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 94.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GoSublime-main-output":
+	{
+		"height": 118.0
+	},
+	"output.GoSublime-source-output":
+	{
+		"height": 112.0
+	},
+	"output.GsComplete.completion-hint-output":
+	{
+		"height": 100.0
+	},
+	"output.GsDepends-output":
+	{
+		"height": 724.0
+	},
+	"output.GsDoc-output-output":
+	{
+		"height": 100.0
+	},
+	"output.MarGo-output":
+	{
+		"height": 112.0
+	},
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.gscommander:///home/rmcguire/Documents/Programming/go/src/rmcguire/cf/cflib":
+	{
+		"height": 100.0
+	},
+	"output.gscommander:///home/rmcguire/Documents/Programming/go/src/rmcguire/cfutils":
+	{
+		"height": 88.0
+	},
+	"output.hex_viewer_inspector":
+	{
+		"height": 142.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"bal",
+				"design/js/baldrick.debug.js"
+			],
+			[
+				"dns",
+				"Projects/clearformat_utilities/preset_mx_dns_server/dns_server_preset_mx.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 186.0,
+	"status_bar_visible": true
+}
